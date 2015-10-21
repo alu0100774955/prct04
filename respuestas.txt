@@ -1,0 +1,4 @@
+¿Qué es RVM?
+
+-Es una plataforma de software que nos permite mantener las distintas distribuciones y las distintas
+versiones instaladas en la máquina.
